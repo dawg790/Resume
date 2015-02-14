@@ -83,3 +83,25 @@ var projects = {
 	}
 	]
 }
+var skillSet = HTMLskills.replace("%data%", bio.skills);
+
+if (bio.skills.length > 0) {
+	$('#header').append(HTMLskillsStart);
+	$('#header').append(skillSet);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
