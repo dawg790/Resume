@@ -1,0 +1,10 @@
+The following resources were used during this project:
+
+1: W3C Validators for HTML and CSS
+2: JSONLint for JSON validation
+3: MDN Documentation
+4: jQuery API documentation
+5: Google Maps API documentation
+6: JavaScript & jQuery by Jon Duckett
+7: Udacity Style Guide
+8: Stack Overflow
